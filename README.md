@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Jaysinh Dabhi
 #### I am Developer / Programmer / UI-UX Designer
-![I am Developer / Programmer / UI-UX Designer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
 
 I occasionally blog and tweet about android. Also open sourced few android related stuff.  
 
